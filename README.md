@@ -1,3 +1,5 @@
+electron-vue未升级vue-cli3.x，选择使用electron-builder。
+
 # electron-vue-cli3
 
 ## Project setup
